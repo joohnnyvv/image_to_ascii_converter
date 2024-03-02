@@ -38,7 +38,3 @@ A simple Python application that converts images into cool ASCII art.
 ## Contributing
 
 Feel free to submit issues or pull requests if you'd like to suggest improvements or fixes. 
-
-## License
-
-[Choose a license - e.g., MIT, GPL, Apache] ([https://choosealicense.com/](https://choosealicense.com/))
