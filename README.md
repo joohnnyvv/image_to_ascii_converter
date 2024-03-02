@@ -27,7 +27,7 @@ A simple Python application that converts images into cool ASCII art.
 3. Enter the image name (and optional subfolder path):
    * Example: `my_picture.jpg`
    * Example with subfolder: `my_images/my_picture.jpg`
-4. Your ASCII art will be saved as `ascii_output.txt` in the project directory.  
+4. Your ASCII art will be saved accordingly in results directory  
 
 ## Customization
 
