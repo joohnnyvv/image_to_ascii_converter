@@ -9,12 +9,12 @@ A simple Python application that converts images into cool ASCII art.
 
 ## Installation
 
-**Prerequisites:**
+** Prerequisites:**
 
 * Python 3 ([https://www.python.org/downloads/](https://www.python.org/downloads/))
 * Pillow (PIL) library: `pip install Pillow`
 
-**Clone/Download:**
+** Clone/Download:**
 
 * Clone this repository: `git clone https://github.com/joohnnyvv/image_to_ascii_converter.git`
 * Or download the code directly.
@@ -34,6 +34,13 @@ A simple Python application that converts images into cool ASCII art.
 * Explore the code in `main.py` to modify:
    * The string of ASCII characters used.
    * Brightness calculation formulas for different effects. 
+
+## Examples
+
+![mona](https://github.com/joohnnyvv/image_to_ascii_converter/assets/110868938/973f2de1-7045-427e-9d32-5e0d22e7a306) 
+<img width="386" alt="Screenshot 2024-03-04 at 01 57 04" src="https://github.com/joohnnyvv/image_to_ascii_converter/assets/110868938/0ebbc707-69d2-4f9f-8839-a35a41d80dbf">
+![cute_kitty](https://github.com/joohnnyvv/image_to_ascii_converter/assets/110868938/66ebe3c2-ef65-44fd-8da1-6e7264a6be13)
+<img width="386" alt="Screenshot 2024-03-04 at 01 58 46" src="https://github.com/joohnnyvv/image_to_ascii_converter/assets/110868938/36eabf78-3d00-42a0-a90d-353cb652b858">
 
 ## Contributing
 
