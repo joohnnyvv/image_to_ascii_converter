@@ -53,5 +53,7 @@ def main():
     with open(output_file, "w") as text_file:
         text_file.write(ascii_art)
 
+    print('Conversion successful!')
+
 if __name__ == "__main__":
     main()
